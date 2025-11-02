@@ -10,17 +10,31 @@ SET UP INSTRUCTIONS:
 DIRECTORY STRUCTURE
 
 cmse492_project/
+
 ├── README.md                 # Overview of the project, setup instructions, and usage examples
+
 ├── .gitignore                # Files and folders to ignore in version control (e.g., logs, cache, venv)
+
 ├── data/
+
 │   ├── raw/                  # Original, unmodified datasets (e.g., player stats, weekly fantasy data)
+
 │   └── processed/            # Cleaned and preprocessed data ready for analysis or modeling
+
 ├── notebooks/
+
 │   └── exploratory/          # Jupyter notebooks for exploratory data analysis (EDA), visualization, and testing ideas
+
 ├── src/
+
 │   ├── preprocessing/        # Scripts for data cleaning, feature engineering, and transformations
+
 │   ├── models/               # Machine learning model definitions, training scripts, and saved model files
+
 │   └── evaluation/           # Model validation, metrics calculation, and performance comparison scripts
+
 ├── figures/                  # Plots, charts, and other visual outputs generated during analysis
+
 ├── docs/                     # Project documentation, reports, and presentation materials
+
 └── requirements.txt          # List of Python dependencies and package versions needed to run the project
