@@ -38,3 +38,7 @@ cmse492_project/
 ├── docs/                     # Project documentation, reports, and presentation materials
 
 └── requirements.txt          # List of Python dependencies and package versions needed to run the project
+
+
+
+#Generative AI was used to help develop the project, and will be labeled when it has been used.
